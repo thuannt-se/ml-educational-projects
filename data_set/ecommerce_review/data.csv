@@ -1,4 +1,4 @@
-content,label,start
+content,label,star
 Áo bao đẹp ạ!,POS,5
 Tuyệt vời,POS,5
 2day ao khong giong trong,NEG,1
@@ -658,7 +658,7 @@ Chất lượng sản phẩm tuyệt vời Chất lượng sản phẩm tuyệt 
 Mua bỉm của shop lần 2 và lần nào cũng ưng.sẽ ủng hộ dài luôn 😚😚,POS,5
 Chất lượng sản phẩm tạm được Giá cả chấp nhận được.bột không dc min lam uống bi sạm,NEU,3
 Thơm,POS,4
-Không đáng tiền,NEG,1
+Sản phẩm không đáng tiền,NEG,1
 Đóng gói sản phẩm chắc chắn,POS,5
 Mọi người yên tâm mua đồ ở shop nhé ❤️ thời gian giao hàng cũng nhanh nữa,POS,4
 K đc full bóx Chất lượng sản phẩm tốt Thời gian giao hàng nhanh đóng gói sản phầm còn móp méo,NEG,2
